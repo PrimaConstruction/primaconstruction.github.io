@@ -11,19 +11,15 @@
    </HEAD>
 <BODY>
   <div class="prima">
-   Prima
+   <h1><div class="col-md-1"></div>Prima</h1>
  </div>
  <div class="llc">
-  CONSTRUCTION LLC
-</div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+  <h2><div class="col-md-2"></div>Construction LLC</h2>
+ </div>
  <div class="pull-right">
   <div class="cont">
-   <P>Email: kim@prima-construction.com</P>
-   <P>Phone: 612-888-5959</P>
+   <div class="col-md-1"><P>Email: kim@prima-construction.com</P></div>
+   <div class="col-md-2"><P>Phone: 612-888-5959</P></div>
   </div>
  </div>
 </BODY>
