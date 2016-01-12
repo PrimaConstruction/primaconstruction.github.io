@@ -1,0 +1,27 @@
+.prima h1 {
+	color: #e34444;
+	font-family: 'Cinzel', serif;
+    -webkit-margin-before: 0em;
+    -webkit-margin-after: 0em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight:normal;
+    font-size:80px;
+    height: 80px;
+}
+
+.llc h2 {
+	font-family: 'Cinzel', serif;
+	display: block;
+    -webkit-margin-before: 0em;
+    -webkit-margin-after: 0em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: normal;
+    font-size:38px;
+}
+
+.cont {
+	font-family: 'Open Sans', serif;
+    text-align:right;
+}
