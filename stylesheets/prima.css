@@ -29,3 +29,12 @@
     -webkit-margin-before: 60px;
     padding-right: 50px
 }
+
+.white {
+    color: white;
+}
+
+.thumbnail {
+    height:auto;
+    width:auto;
+}
