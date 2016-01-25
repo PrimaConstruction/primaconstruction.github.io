@@ -35,11 +35,10 @@
     font-size: 24px;
 }
 
-.cont {
+.contac {
 	font-family: 'Open Sans', serif;
-    text-align:right;
-    -webkit-margin-before: 60px;
-    padding-right: 50px
+  text-align:right;
+  line-height: 10px;
 }
 
 .white {
